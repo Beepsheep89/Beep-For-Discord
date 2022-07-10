@@ -45,7 +45,7 @@ module.exports = client;
 
 
 
-client.login('OTUyNDg2NzY1MTgzMjU0NTY4.GymJkU.bk7W0HISsT8w_uzgUMQqZKj6-wiDgBmSJb3kHM');
+client.login('YOUR BOT TOKEN GOES HERE');
 
 
 
