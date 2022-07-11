@@ -5,7 +5,9 @@
 
 Instructions:
 1.
+<img align="centre">
 Install the following dependancies (Copy all of them to clipboard and install them together):
 npm i 
+</div>
 
 PLEASE NOTE: The included procfile is to host the bot on heroku. If you would like to remove this code, do so.
